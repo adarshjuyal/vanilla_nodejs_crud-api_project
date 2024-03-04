@@ -1,0 +1,15 @@
+{
+  "name": "crud-api-project",
+  "version": "1.0.0",
+  "description": "this is vanilla nodejs CRUC-API PROJECT",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon server.js"
+  },
+  "author": "adarsh juyal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
